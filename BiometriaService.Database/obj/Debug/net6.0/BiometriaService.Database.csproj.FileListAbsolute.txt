@@ -1,0 +1,17 @@
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\bin\Debug\net6.0\BiometriaService.Database.deps.json
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\bin\Debug\net6.0\BiometriaService.Database.runtimeconfig.json
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\bin\Debug\net6.0\BiometriaService.Database.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\bin\Debug\net6.0\ref\BiometriaService.Database.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\bin\Debug\net6.0\BiometriaService.Database.pdb
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\bin\Debug\net6.0\Application.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\bin\Debug\net6.0\Application.pdb
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\BiometriaService.Database.csproj.AssemblyReference.cache
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\BiometriaService.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\BiometriaService.Database.AssemblyInfoInputs.cache
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\BiometriaService.Database.AssemblyInfo.cs
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\BiometriaService.Database.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\BiometriaService.Database.csproj.CopyComplete
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\BiometriaService.Database.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\ref\BiometriaService.Database.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\BiometriaService.Database.pdb
+C:\Users\danii\source\BiometriaService\BiometriaService.Database\obj\Debug\net6.0\BiometriaService.Database.genruntimeconfig.cache

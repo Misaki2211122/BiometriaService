@@ -1,0 +1,17 @@
+C:\Users\danii\source\BiometriaService\BiometriaService.API\bin\Debug\net6.0\BiometriaService.API.deps.json
+C:\Users\danii\source\BiometriaService\BiometriaService.API\bin\Debug\net6.0\BiometriaService.API.runtimeconfig.json
+C:\Users\danii\source\BiometriaService\BiometriaService.API\bin\Debug\net6.0\BiometriaService.API.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.API\bin\Debug\net6.0\ref\BiometriaService.API.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.API\bin\Debug\net6.0\BiometriaService.API.pdb
+C:\Users\danii\source\BiometriaService\BiometriaService.API\bin\Debug\net6.0\Application.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.API\bin\Debug\net6.0\Application.pdb
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\BiometriaService.API.csproj.AssemblyReference.cache
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\BiometriaService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\BiometriaService.API.AssemblyInfoInputs.cache
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\BiometriaService.API.AssemblyInfo.cs
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\BiometriaService.API.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\BiometriaService.API.csproj.CopyComplete
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\BiometriaService.API.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\ref\BiometriaService.API.dll
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\BiometriaService.API.pdb
+C:\Users\danii\source\BiometriaService\BiometriaService.API\obj\Debug\net6.0\BiometriaService.API.genruntimeconfig.cache
